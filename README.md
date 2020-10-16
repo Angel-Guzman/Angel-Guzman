@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on ... React
 - 🤔 I’m looking for help with ... Data Structures/Algorithims
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... angelguzman97@gmail.com
+- 📫 How to reach me: ... angelguzman97@gmail.com / https://www.linkedin.com/in/angel-guzman-80b9b6b1/
