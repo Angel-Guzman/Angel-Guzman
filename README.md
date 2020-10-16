@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Angel-Guzman/Angel-Guzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there 👋
 
 Here are some ideas to get you started:
 
@@ -11,4 +8,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Data Structures/Algorithims
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... angelguzman97@gmail.com
--->
